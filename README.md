@@ -68,4 +68,10 @@ The proposed designs were tested on image processing tasks, such as image multip
 1. Clone the repository:
    ```bash
    git clone https://github.com/hemanth-abhi850/Ternary-multiplier.git
+   
+##Reference
+This project is licensed under the MIT License
 
+If you use these designs in your work, please cite the following:
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10558406
