@@ -67,5 +67,5 @@ The proposed designs were tested on image processing tasks, such as image multip
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/approx-multiplier.git
+   git clone https://github.com/username/Ternary-multiplier.git
 
